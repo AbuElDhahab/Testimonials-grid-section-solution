@@ -22,11 +22,11 @@ Users should be able to:
 
 ## MOBILE
 
-![mobile screenshot](./mobile-page)
+![mobile screenshot](./mobile-page.jpeg)
 
 ## DESKTOP
 
-![desktop_screenshot](./desktop-page)
+![desktop_screenshot](./desktop-page.jpeg)
 
 ### Links
 
